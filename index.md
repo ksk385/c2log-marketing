@@ -1,5 +1,5 @@
 ---
-title: C2Log Online
+title: C2 Log Online
 layout: home
 description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 intro_image: "images/illustrations/pointing.svg"
