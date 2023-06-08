@@ -1,4 +1,5 @@
 <div class="call">
+  {% if site.data.contact.phone || site.data.contact.email %}
   <div class="call-box-top">
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
@@ -11,9 +12,10 @@
     </div>
     {% endif %}
   </div>
+  {% endif %}
     {% if include.show_button %}
       <div class="call-box-bottom">
-        <a href="{{ site.data.contact.contact_button_link }}" class="button">Contact</a>
+        <a href="{{ site.data.contact.contact_button_link }}" class="button">Join Launch List</a>
       </div>
     {% endif %}
 </div>
