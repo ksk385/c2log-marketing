@@ -26,7 +26,7 @@
     flex: auto;
     width: 300px;
     padding-bottom: 20px;
-    border-top: 1px solid darken($white-offset, 5%);
+    // border-top: 1px solid darken($white-offset, 5%);
     @include media-breakpoint-up(sm) {
       flex: 0 0 auto;
       border: none;
