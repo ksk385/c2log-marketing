@@ -1,6 +1,9 @@
 main:
+  - name: "Home"
+    url: "/"
+    weight: 1
   - name: "Join Waitlist"
-    url: "#join-waitlist"
+    url: "/join-waitlist/"
     weight: 2
 
 footer:
@@ -8,5 +11,5 @@ footer:
     url: "/"
     weight: 1
   - name: "Join Waitlist"
-    url: "#join-waitlist"
+    url: "/join-waitlist/"
     weight: 2
