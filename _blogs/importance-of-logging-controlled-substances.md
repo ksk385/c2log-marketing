@@ -27,7 +27,7 @@ Proper logging ensures:
 - **Electronic Logging Systems**:
   While manual logs are acceptable, electronic systems are more efficient and reduce the risk of human error. They also make it easier to track inventory, dispensed prescriptions, and returned or destroyed medications.
 
-  A system like C2Log not only streamlines the logging process but also offers features like easy access, dedicated support, and biennial reporting. [Join the waitlist](/join-waitlist/) to get early access.
+  A system like C2 Log not only streamlines the logging process but also offers features like easy access, dedicated support, and biennial reporting. [Join the waitlist](/join-waitlist/) to get early access.
 
 - **Detailed Records**:
   Every entry should include:
@@ -48,4 +48,4 @@ Proper logging ensures:
 - **Regular Training**:
   Ensure that all staff, especially those involved in the dispensing process, are regularly trained on the importance of accurate logging and the procedures to follow.
 
-Are you a pharmacy looking for a reliable, intuitive, and secure system to log controlled substances? Look no further than C2Log. With our expertise in the controlled substances logging, we've developed a solution tailored for independent pharmacies, retail community pharmacies, and private hospital pharmacies. [Join the waitlist](/join-waitlist/) for early access to C2Log and revolutionize the way you manage controlled substances.
+Are you a pharmacy looking for a reliable, intuitive, and secure system to log controlled substances? Look no further than C2 Log. With our expertise in the controlled substances logging, we've developed a solution tailored for independent pharmacies, retail community pharmacies, and private hospital pharmacies. [Join the waitlist](/join-waitlist/) for early access to C2 Log and revolutionize the way you manage controlled substances.

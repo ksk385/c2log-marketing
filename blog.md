@@ -1,7 +1,7 @@
 ---
-title: C2Log Blog
+title: C2 Log Blog
 layout: blogs
-description: C2Log Blog Articles
+description: C2 Log Blog Articles
 ---
 
 #### Articles
