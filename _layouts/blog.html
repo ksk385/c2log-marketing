@@ -1,16 +1,35 @@
 ---
 layout: default
-bodyClass: "page-basic"
+bodyClass: "page-blog"
 ---
 
-<div class="container pb-6 pt-6 pt-md-6 pb-md-6">
+<div class="intro-small">
+  <div class="container">
     <div class="row justify-content-start">
-        <div class="col-12 col-md-8">
-            <div class="service service-single">
-                <h1 class="title">{{page.title}}</h1>
-                <img src="{{page.image}}" alt="{{page.imageAlt}}" class="img-fluid mb-3">
-                <div class="content">{{content}}</div>
-            </div>
-        </div>
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ content }}
+      </div>
     </div>
+  </div>
+</div>
+
+<div class="container pt-6 pb-6">
+  <div class="row">
+    {% for article in site.blog %}
+    <div class="col-12 col-md-6 mb-3">
+      <div class="blog blog-summary">
+        <div class="blog-content">
+          <h2 class="blog-title">
+            <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+          </h2>
+          <div class="blog-snippet">
+            <img src="{{ article.image }}" alt="{{ article.imageAlt }}" class="img-fluid mb-3">
+            <p>{{ article.content | markdownify | strip_html | truncate: 300 }}</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    {% endfor %}
+  </div>
 </div>

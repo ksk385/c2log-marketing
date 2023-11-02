@@ -1,6 +1,6 @@
 ---
 title: Importance of Logging Controlled Substances
-layout: blog
+layout: article
 description: The Importance of Logging Controlled Substances - A Guide for Pharmacies
 bodyClass: page-blog
 image: /images/controlled-substances.jpg

@@ -18,7 +18,7 @@ collections:
   services:
     output: false
     sort_by: weight
-  blogs:
+  blog:
     output: true
   team:
     output: false
@@ -31,9 +31,9 @@ defaults:
       layout: "service"
   - scope:
       path: ""
-      type: "blogs"
+      type: "blog"
     values:
-      layout: "blogs"
+      layout: "blog"
   - scope:
       path: ""
       type: "team"
