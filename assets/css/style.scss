@@ -30,7 +30,7 @@ $sub-footer-text-color: $white;
 @import "bootstrap-variables";
 @import "bootstrap/bootstrap-reboot";
 @import "bootstrap/bootstrap-grid";
-@import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
+@import "bootstrap/bootstrap"; // Uncomment this line to import the entire Bootstrap library
 
 // Libraries
 @import "libraries/hamburgers/hamburgers";
@@ -60,6 +60,7 @@ $sub-footer-text-color: $white;
 @import "pages/page-home";
 @import "pages/page-teams";
 @import "pages/page-service";
+@import "pages/page-blogs";
 
 body {
   font-size: 16px;

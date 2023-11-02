@@ -1,0 +1,16 @@
+.content {
+  img {
+    max-width: 80%;
+  }
+}
+
+.blog-snippet {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 15px;
+
+  img {
+    max-width: 30%;
+  }
+}
