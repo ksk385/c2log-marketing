@@ -16,12 +16,12 @@ home:
 
 collections:
   services:
-    output: true
+    output: false
     sort_by: weight
   blogs:
     output: true
   team:
-    output: true
+    output: false
 
 defaults:
   - scope:
