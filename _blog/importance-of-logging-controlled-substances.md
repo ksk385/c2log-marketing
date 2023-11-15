@@ -44,7 +44,7 @@ Proper logging ensures:
 - **Record Retention**:
   The DEA mandates that pharmacies maintain their records for at least two years. Ensure you have a system in place to archive older logs while keeping them accessible for potential audits.
 - **Handling Discrepancies**:
-  If you identify any discrepancies, address them immediately. This might involve cross-checking with staff, reviewing security footage, or even notifying authorities if theft is suspected.
+  If you identify any discrepancies, address them immediately. This might involve cross-checking with staff, reviewing security footage, or even notifying authorities if theft is suspected. See our [guide on handling missing controlled substances](/blog/handling-missing-controlled-substances/) for more details.
 - **Regular Training**:
   Ensure that all staff, especially those involved in the dispensing process, are regularly trained on the importance of accurate logging and the procedures to follow.
 
