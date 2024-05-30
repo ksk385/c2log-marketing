@@ -5,9 +5,12 @@ main:
   - name: "Blog"
     url: "/blog/"
     weight: 2
+  - name: "Prototype"
+    url: "/prototype/"
+    weight: 3
   - name: "Join Waitlist"
     url: "/join-waitlist/"
-    weight: 3
+    weight: 4
 
 footer:
   - name: "Home"
@@ -16,6 +19,9 @@ footer:
   - name: "Blog"
     url: "/blog/"
     weight: 2
+  - name: "Prototype"
+    url: "/prototype/"
+    weight: 3
   - name: "Join Waitlist"
     url: "/join-waitlist/"
-    weight: 3
+    weight: 4
